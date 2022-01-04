@@ -1,0 +1,19 @@
+nav.navabr {
+    background-color: #ffffff;
+}
+
+#icon {
+    width:40px;
+}
+#testimonal:hover {
+    color: #08abfa;
+}
+#contact-nav{
+    border-color: #08abfa;
+    color: #08abfa;
+}
+#contact-nav:hover{
+    border-color: #08abfa;
+    background-color: #08abfa;
+    color: #ffffff;
+}
